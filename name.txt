@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 viral,krishna
+=======
+viral
+aarohi
+=======
+KRISHNA
+>>>>>>> f9cfd3036251f21cd783cf35d33f9441cdc16c34
